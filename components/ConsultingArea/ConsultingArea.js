@@ -26,7 +26,7 @@ const ConsultingArea = (props) => {
                 </h2>
               </div>
               <span className="text-[18px] text-[#c0b596]">
-                Call us 24/7 at (888)123-4567 or fill out the form.
+                Call us 24/7 at +44 1970450972 or fill out the form.
               </span>
             </div>
           </div>

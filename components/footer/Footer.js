@@ -160,16 +160,16 @@ const Footer = (props) => {
     //               Head Office Address
     //             </li>
     //             <li className="relative mb-[8px] block text-white">
-    //               121 King Street, Melbourne West,
+    //               Seefeldstrasse 32, Zurich,
     //             </li>
     //             <li className="relative mb-[8px] block text-white">
-    //               Australia
+    //               Switzerland
     //             </li>
     //             <li className="relative mb-[8px] block text-white">
-    //               Phone: 888 123-4587
+    //               Phone: +44 1970450972
     //             </li>
     //             <li className="relative mb-[8px] block text-white">
-    //               Email: info@example.com
+    //               Email: legalsupport@cryptojustice.pro
     //             </li>
     //           </ul>
     //         </div>

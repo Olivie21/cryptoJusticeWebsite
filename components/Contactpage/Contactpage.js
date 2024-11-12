@@ -42,10 +42,10 @@ const Contactpage = () => {
                       Email Us
                     </h2>
                     <p className="text-[#666] text-[16px] leading-[22px]">
-                      barristar@gmail.com
+                    legalsupport@cryptojustice.pro
                     </p>
                     <p className="text-[#666] text-[16px] leading-[22px]">
-                      helloyou@gmail.com
+                    legalsupport@cryptojustice.pro
                     </p>
                   </div>
                 </div>

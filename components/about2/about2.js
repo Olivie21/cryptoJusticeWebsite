@@ -27,7 +27,7 @@ const About2 = (props) => {
                 </h2>
               </div>
               <p className="text-[#666] text-[15px] leading-[28px] mb-[30px]">
-                {`Crypto justice is a UK-based blockchain forensics and legal
+                {`Crypto justice is a Switzerland-based blockchain forensics and legal
                 services provider, specialising in blockchain and
                 cryptocurrencies. Our core mission is to empower companies and
                 individuals to navigate and succeed in the face of the constant

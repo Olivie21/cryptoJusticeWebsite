@@ -31,7 +31,7 @@ const Header = (props) => {
                     className="fa fa-map-marker pr-[10px] col:pt-[0] text-[#cbbc99] text-[20px]"
                     aria-hidden="true"
                   ></i>
-                  121 King Street, Melbourne , Australia
+                  Seefeldstrasse 32, Zurich , Switzerland
                 </li>
                 <li
                   className="relative text-white inline-block p-[15px]  col:pr-0
@@ -41,7 +41,7 @@ const Header = (props) => {
                     className="fa fa-mobile pr-[10px] text-[#cbbc99] text-[20px]"
                     aria-hidden="true"
                   ></i>
-                  3164-5456854
+                  +44 1970450972
                 </li>
                 <li className="relative text-white inline-block p-[15px] col:pr-0  before:absolute before:content-[''] before:left-0 before:top-[15px] before:w-[1px] before:h-[25px] before:bg-[rgba(255,255,255,.07)] md:before:hidden  before:z-10 before:transform before:-translate-x-1/2 ">
                   <i
