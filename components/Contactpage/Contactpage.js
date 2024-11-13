@@ -77,8 +77,7 @@ const Contactpage = () => {
                 Have Any Question?
               </h2>
               <p className="text-[#666] text-[16px] leading-[22px]">
-                It is a long established fact that a reader will be distracted
-                content of a page when looking.
+                
               </p>
             </div>
             <div className="p-[50px] bg-white mb-[-125px] relative z-10 shadow-[0_8px_17px_0_rgba(0,0,0,20%),0_6px_20px_0_rgba(0,0,0,19%)] sm:p-7 sm:pt-[50px]">
