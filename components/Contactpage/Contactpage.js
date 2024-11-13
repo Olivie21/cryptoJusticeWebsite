@@ -63,10 +63,10 @@ const Contactpage = () => {
                       Call Now
                     </h2>
                     <p className="text-[#666] text-[16px] leading-[22px]">
-                      +1 800 123 456 789
+                    +44 1970450972
                     </p>
                     <p className="text-[#666] text-[16px] leading-[22px]">
-                      +1 800 123 654 987
+                    +44 1970450972
                     </p>
                   </div>
                 </div>
