@@ -18,7 +18,7 @@ function MyApp({ Component, pageProps: { session, ...pageProps } }) {
   return (
     <div>
       <Head>
-        <title>Crypto Recovery</title>
+        <title>Crypto Justice</title>
       </Head>
       <SessionProvider session={session}>
         <Component {...pageProps} />

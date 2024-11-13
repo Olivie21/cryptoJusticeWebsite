@@ -46,7 +46,7 @@ const Hero = () => {
                      col:text-[25px] col:leading-[35px] font-normal my-[33px] md:my-[20px]"
                     >
                       <span>We Fight For Your Justice</span> <br />{" "}
-                      <span>.</span>
+                      <span>As Like As A Friend.</span>
                     </h2>
                     <div className="btns">
                       <div className="btn-style">
@@ -93,7 +93,7 @@ const Hero = () => {
                      col:text-[25px] col:leading-[35px] font-normal my-[33px] md:my-[20px]"
                     >
                       <span>We Fight For Your Justice</span> <br />{" "}
-                      <span>d.</span>
+                      <span>As Like As A Friend.</span>
                     </h2>
                     <div className="btns">
                       <div className="btn-style">
