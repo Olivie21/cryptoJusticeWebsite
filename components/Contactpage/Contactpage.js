@@ -24,7 +24,7 @@ const Contactpage = () => {
                       Address
                     </h2>
                     <p className="text-[#666] text-[16px] leading-[22px]">
-                      245 King Street, Touterie Victoria 8520 Australia
+                    Seefeldstrasse 32, Zurich , Switzerland
                     </p>
                   </div>
                 </div>
