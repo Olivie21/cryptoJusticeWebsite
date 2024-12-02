@@ -39,7 +39,7 @@ const Hero = () => {
                 <div className="wraper">
                   <div className="slide-caption w-[700px] mt-[245px] lg:mt-[110px] md:mt-[120px] col:mt-[100px] absolute top-0 z-20">
                     <p className="text-white text-[20px] font-light col:text-[18px]">
-                      The Most Talented Law Frim
+                      The Most Talented Law Firm
                     </p>
                     <h2
                       className="text-white text-[60px] leading-[90px] lg:text-[42px] lg:leading-[56px] 
@@ -86,7 +86,7 @@ const Hero = () => {
                 <div className="wraper">
                   <div className="slide-caption w-[700px] mt-[245px] lg:mt-[110px] md:mt-[120px] col:mt-[100px] absolute top-0 z-20">
                     <p className="text-white text-[20px] font-light col:text-[18px]">
-                      The Most Talented Law Frim
+                      The Most Talented Law Firm
                     </p>
                     <h2
                       className="text-white text-[60px] leading-[90px] lg:text-[42px] lg:leading-[56px] 
