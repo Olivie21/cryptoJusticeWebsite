@@ -1,3 +1,0 @@
-DATABASE_URL=postgresql://neondb_owner:vsD1ZPgzW7LX@ep-bold-meadow-a5qngat6.us-east-2.aws.neon.tech/neondb?sslmode=require
-NEXTAUTH_URL="http://localhost:3000"
-NEXTAUTH_SECRET="my9+dBVv2KxQfM60MTSdaCsxgNUFPApAPytffoxSaKU="
